@@ -94,4 +94,4 @@ Sempre aberto a novos desafios e aprendizados.
 ##  Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-marcos-80a294399)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:marcoscmd250@gmail.com)
+
