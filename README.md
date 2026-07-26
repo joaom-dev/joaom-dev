@@ -67,21 +67,6 @@ O projeto consiste em uma plataforma para centralizar informações sobre concur
 
 ---
 
-##  Atualmente estudando
-
-<p align="left">
-<img alt="Angular" title="Angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-</p>
-
-- Angular
-- React
-- Spring Security
-- Spring Data JPA
-- Arquitetura de Software
-- APIs REST
-
----
 
 ##  Objetivos
 
