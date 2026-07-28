@@ -84,5 +84,5 @@ Sempre aberto a novos desafios e aprendizados.
 
 ## 📄 Currículo
 
- - [Visualizar Currículo (PDF)](./documentos/curriculoJoao/curriculoJoaoMarcosMarquesSilva.pdf)
+ - [Visualizar Currículo (PDF)](./curriculoJoaoMarcosMarquesSilva.pdf)
 
