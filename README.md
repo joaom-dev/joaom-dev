@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João Marcos
 
-**`Desenvolvedor Full Stack | Futuro Desenvolvedor Backend Java`**
+**`Desenvolvedor Full Stack`**
 
 Me chamo João Marcos, tenho 18 anos e sou de Brasília - DF. Sou formado como Técnico em Desenvolvimento de Sistemas e atualmente curso Engenharia de Software.
 
