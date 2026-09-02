@@ -24,16 +24,23 @@ I am currently looking for opportunities to apply my knowledge to real-world pro
 <img alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </p>
+
 ###  Back-end
+
 <p align="left">
 <img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="Spring Boot" title="Spring Boot" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 </p>
+
 ###  Databases
+
 <p align="left">
 <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="PostgreSQL" title="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
+
 ###  Tools
+
 <p align="left">
 <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
@@ -41,7 +48,7 @@ I am currently looking for opportunities to apply my knowledge to real-world pro
 <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
 <img alt="Postman" title="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 <img alt="MySQL Workbench" title="MySQL Workbench" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img alt="DBeaver" title="DBeaver" width="35px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbeaver.svg"/>
+<img alt="DBeaver" title="DBeaver" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg"/>
 </p>
 
 ---
