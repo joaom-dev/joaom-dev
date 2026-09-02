@@ -1,6 +1,7 @@
 # 👨🏻‍💻 João Marcos
 
 **`Full Stack Developer`**
+
 My name is João Marcos, and I'm based in Brasília - DF, Brazil. I hold a technical degree as a Systems Development Technician and I am currently pursuing a degree in Software Engineering.
 I am passionate about technology and programming, always looking to learn new tools and improve my skills. I currently consider myself a Full Stack developer with a focus on web development, but my main goal is to specialize as a Backend Developer using Java and the Spring Boot ecosystem.
 I have hands-on experience developing a Full Stack project for my final-year thesis (TCC), where I worked on both the frontend and backend of the application, applying good development practices, REST APIs, and a relational database.
