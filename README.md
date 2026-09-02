@@ -1,40 +1,27 @@
 # 👨🏻‍💻 João Marcos
 
-**`Desenvolvedor Full Stack`**
-
-Me chamo João Marcos, tenho 18 anos e sou de Brasília - DF. Sou formado como Técnico em Desenvolvimento de Sistemas e atualmente curso Engenharia de Software.
-
-Sou apaixonado por tecnologia e programação, sempre buscando aprender novas ferramentas e aprimorar minhas habilidades. Atualmente me considero um desenvolvedor Full Stack, com foco em desenvolvimento web, mas meu principal objetivo é me especializar como Desenvolvedor Backend utilizando Java e o ecossistema Spring Boot.
-
-Tenho experiência prática no desenvolvimento de um projeto Full Stack para meu Trabalho de Conclusão de Curso (TCC), onde participei da criação tanto do frontend quanto do backend da aplicação, utilizando boas práticas de desenvolvimento, APIs REST e banco de dados relacional.
-
+**`Full Stack Developer`**
+My name is João Marcos, and I'm based in Brasília - DF, Brazil. I hold a technical degree as a Systems Development Technician and I am currently pursuing a degree in Software Engineering.
+I am passionate about technology and programming, always looking to learn new tools and improve my skills. I currently consider myself a Full Stack developer with a focus on web development, but my main goal is to specialize as a Backend Developer using Java and the Spring Boot ecosystem.
+I have hands-on experience developing a Full Stack project for my final-year thesis (TCC), where I worked on both the frontend and backend of the application, applying good development practices, REST APIs, and a relational database.
 ---
-
-##  Linguagens e Tecnologias
-
+##  Languages and Technologies
 ###  Front-end
-
 <p align="left">
 <img alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </p>
-
 ###  Back-end
-
 <p align="left">
 <img alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img alt="Spring Boot" title="Spring Boot" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 </p>
-
-###  Banco de Dados
-
+###  Databases
 <p align="left">
 <img alt="MySQL" title="MySQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 </p>
-
-###  Ferramentas
-
+###  Tools
 <p align="left">
 <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
@@ -44,16 +31,11 @@ Tenho experiência prática no desenvolvimento de um projeto Full Stack para meu
 <img alt="MySQL Workbench" title="MySQL Workbench" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img alt="DBeaver" title="DBeaver" width="35px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/dbeaver.svg"/>
 </p>
-
 ---
- ## Projeto em destaque
-
+ ## Featured Project
 ###  Royale Concursos
-
-Sistema Full Stack desenvolvido como Trabalho de Conclusão de Curso.
-
-Principais tecnologias utilizadas:
-
+Full Stack system developed as my final-year thesis (TCC).
+Main technologies used:
 - Java
 - Spring Boot
 - Spring Security
@@ -62,27 +44,16 @@ Principais tecnologias utilizadas:
 - HTML
 - CSS
 - JavaScript
-
-O projeto consiste em uma plataforma para centralizar informações sobre concursos públicos por meio de uma API, permitindo pesquisa, autenticação de usuários, gerenciamento de dados através de APIs REST e integração entre frontend e backend.
-
+The project consists of a platform that centralizes information about Brazilian public exams (concursos) through an API, enabling search, user authentication, data management via REST APIs, and integration between frontend and backend.
 ---
-
-
-##  Objetivos
-
-Atualmente busco minha primeira oportunidade dentro da area de programação, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e evoluir constantemente como desenvolvedor de software.
-
-Sempre aberto a novos desafios e aprendizados.
-
+##  Goals
+I am currently seeking my first opportunity in the programming field, where I can apply my knowledge, learn from experienced professionals, and continuously grow as a software developer.
+Always open to new challenges and learning opportunities.
 ---
-
-##  Contato
-
+##  Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-marcos-80a294399)
-
 ---
-
-## 📄 Currículo
+## 📄 Resume
 
  - [Visualizar Currículo (PDF)](./curriculoJoaoMarcosMarquesSilva.pdf)
 
