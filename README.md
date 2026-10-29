@@ -23,6 +23,7 @@ I am currently looking for opportunities to apply my knowledge to real-world pro
 <img alt="HTML" title="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </p>
 
 ###  Back-end
@@ -49,6 +50,7 @@ I am currently looking for opportunities to apply my knowledge to real-world pro
 <img alt="Postman" title="Postman" width="35px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 <img alt="MySQL Workbench" title="MySQL Workbench" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img alt="DBeaver" title="DBeaver" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg"/>
+<img alt="Claude" title="Claude" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/claude/claude-original.svg"/>
 </p>
 
 ---
